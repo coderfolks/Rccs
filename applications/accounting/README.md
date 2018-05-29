@@ -12,3 +12,4 @@ JIRA issues related to this component can be found at https://issues.apache.org/
 
 ## commits
 Committed revisions can be viewed at http://svn.apache.org/viewvc/ofbiz/trunk/applications/accounting
+#########
